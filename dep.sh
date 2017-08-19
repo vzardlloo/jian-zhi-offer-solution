@@ -9,5 +9,5 @@ echo "                           "
 echo "$@"
 
 git add "$1"
-git commit -m "$4"
+git commit -m "Add solution"
 git push -u origin master
