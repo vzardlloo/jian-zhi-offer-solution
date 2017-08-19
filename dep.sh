@@ -6,7 +6,7 @@ echo "*we will do a deploy soon!*"
 echo "***************************"
 echo "                           "
 echo "                           "
-echo "S@"
+echo "$@"
 
 git add $1
 git commit -m "$2"
