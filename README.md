@@ -1,1 +1,2 @@
-# jian-zhi-offer-solution
+# 《剑指Offer》Java版的练习题解答
+欢迎补充好的、优雅的解答，造福广大求职者：-）
