@@ -8,7 +8,7 @@ echo "                           "
 echo "                           "
 echo "$@"
 
-if ["s2" == ""]
+if ["$2" == ""]
 then set "默认提交,无特殊信息"
 
 
