@@ -15,5 +15,5 @@ then set "默认提交"
 fi
 
 git add "$1"
-git commit -m "Add solution"
+git commit -m "$2"
 git push -u origin master
