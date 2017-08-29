@@ -9,7 +9,7 @@ echo "                           "
 echo "$@"
 
 if ["s2" == ""]
-then set "默认提交,无特殊信息!"
+then set "默认提交,无特殊信息"
 
 
 fi
